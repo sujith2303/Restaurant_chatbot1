@@ -1,0 +1,142 @@
+Here is the menu
+
+Soups and Salads:
+
+Butternut Squash Soup,cost : 350
+Minestrone Soup,cost : 250
+Tomato Soup, cost : 100
+Veg Mushroom Soup , cost : 120
+Veg Corn Soup, cost : 150
+Veg Noodles Soup ,  cost : 150
+Veg Hot & Sour Soup , cost : 150
+Veg Manchow Soup , cost : 150
+
+Staters :
+
+paneer 65,cost:280
+veg 65 , cost: 350
+veg Manchuriya,cost :145
+Paneer Majestic,cost : 285
+Gobi Manchuriya , cost : 270
+Veg Anjana Dry , cost : 290
+Gobi 65, cost : 270
+Aloo 65, cost : 250
+Chilli Mushroom , cost : 380
+
+Main Course:
+
+Biryanis:
+Special Veg Biryani,cost: 200
+Paneer Biryani,cost: 250
+Veg Biryani, cost: 170
+Punjabi Biryani,cost : 250
+Paneer Tikka Biryani, cost : 400
+Vegetarian Stir-Fry,cost : 250
+Penne Arrabbiata,cost : 250
+Mushroom Risotto,cost : 250
+
+Fried Rice:
+Kaju Fried Rice, cost : 330
+Mushroom Fried Rice, cost : 310
+Special Veg Fried Rice, cost : 290
+Special Fried rice,cost: 190
+
+Curries:
+Paneer Butter Masala,cost : 200
+Paneer Kolhapuri, cost:250
+Paneer Akbari,cost : 250
+Kaju Paneer, cost : 300
+Jeera Fried Rice, cost : 240
+Veg Punjabi , cost : 260
+Veg Shahi korma , cost : 260
+Veg Maharani , cost : 350
+Paneer Kofta  , cost : 360
+
+Appetizers:
+Caprese Salad,cost : 250
+Stuffed Mushrooms,cost : 250
+Caesar Salad,cost : 250
+
+Pasta Dishes:
+Spaghetti Carbonara,cost : 250
+
+
+Non-Veg Appetizers:
+Garlic Shrimp,cost : 250
+
+
+Non-Veg Soups and Salads:
+Caesar Salad,cost : 250
+Minestrone Soup,cost : 250
+Grilled Salmon,cost : 250
+Chicken Marsala,cost : 250
+
+Non-Veg Staters:
+chicken 65, cost : 380
+mutton 65, cost : 550
+Andhra Prawns , cost : 450
+Kadai Prawns , cost : 384
+Chicken Tikka Masala , cost : 340
+
+Non-Veg Main Courses:
+
+Non-Veg Biryanis:
+Chicken Biryani , cost : 380
+Egg Biryani , cost : 300
+Chicken Rambo Biryani , cost : 490 
+Special Chicken Biryani , cost : 440
+Chicken Biryani Family Pack , cost : 750
+Special Prawns Biryani , cost : 480
+Mutton Biryani , cost : 500
+Mutton Kheema Biryani , cost : 550
+Chicken Tangidi Biryani , cost : 450
+
+Non-Veg Curries: 
+Chicken Curry , cost : 340 
+Kadai Chicken , cost : 340
+Mutton Curry , cost : 380
+Prawns Curry , cost : 380
+Mughali chicken Masala , cost : 384
+Butter Chicken Masala , cost : 340
+Egg Burji ,  cost : 330
+Mutton Kheema Curry , cost : 380
+
+
+Non-Veg Pasta Dishes:
+Spaghetti Carbonara,cost : 250
+Penne Arrabbiata,cost : 250
+Mushroom Risotto,cost : 250
+
+
+Desserts:
+```
+Chocolate Lava Cake,cost : 250
+Tiramisu,cost : 250
+Lemon Sorbet,cost : 250
+Apricot delight,cost : 250
+```
+
+Beverages:
+```
+House-made Lemonade,cost : 250
+Iced Tea,cost : 250
+Sparkling Water,cost : 250
+```
+
+Today's Special:
+```
+Staters: paneer 65,cost:280
+Special Veg Biryani,cost: 200
+```
+
+Today's Special Deals:
+```
+1)Order Paneer Biyani Family pack and get a complementary Dessert for Free.
+2)Order 2 Chocolava cakes and get a complementary pasta for free
+```
+
+Payment offers:
+```
+Pay through amazon pay icici card and get flat 200 off
+Pay through swiggy dineout and get flat 50% off
+```
